@@ -1,0 +1,8 @@
+.DS_Store
+*.vcd
+*.vvp
+sim/*.out
+a.out
+*.log
+*.jou
+work/
